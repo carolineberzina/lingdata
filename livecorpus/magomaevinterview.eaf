@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T03:12:05+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/karolina/Downloads/Telegram Desktop/магомаев 2.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Telegram Desktop/магомаев 2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7481361b-703a-47bc-87a8-f9aa664a0425</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">48</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16759"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="26591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="26873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="35213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="35282"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="43000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="43023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="55851"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="56887"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="60228"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="60508"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="66703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="66703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="76498"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="76498"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="88993"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="89005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="95246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="95254"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="104536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="104555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="116658"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="116658"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="130247"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="130247"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="136390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="136536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="145146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="145146"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="149112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="150296"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="161086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="162330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="167395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="168036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="172591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="174296"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="183333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="183346"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="199873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="199880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="208042"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="carolineberzina" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@mmmagomaev1942m" TIER_ID="text@mmmagomaev1942m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>в общем / полная белиберда #смеется#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>я понимаю упреки азербайджанцев в том что я не знаю языка но / я не знаю языка только потому что я / с детства его не впитывал //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>я учился в элитарной школе / мы с Поладом вместе учились в этой школе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>где у нас был необязательным азербайджанский язык / хочешь учи хочешь нет / вот / учи английский / учи / русский / все говорили по-русски //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>естественно / больше уделялось внимания английскому языку нежели азербайджанскому / и у меня просто не было времени учить этот язык // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>пел я / м / по-итальянски #смеется# / и в общем уродился вот такой / интернационалист  полный // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>поэтому у меня н... ничего не может быть / в душе никакого национализма / #нрзб# какого-то недоверия к каким-то / национальностям / потому что все перемешано настолько в крови что #одновременно# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>я пою по-азербайджански пою прекрасно / я / язык-то / когда мне говорят я понимаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>но я настолько / говорю отвратительно / что мне неудобно / у себя / в свое... при своем народе разговаривать на кошмарнейшем языке //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>у меня есть / друзья приятели которые говорят на азербайджанском ну немножко лучше чем я / и они не стесняются почему-то / м выдавать фразы хотя как они говорят это смешно очень / слушать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>я стесняюсь хоть я понимаю речь я понимаю о чем говорят / но я сразу же перехожу на русский язык //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE> кстати азербайджанцы сам того... сами того не зная / многие / говоря по-азербайджански они вставляют очень много русских слов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>потому что например вилка ложка / есть на азербайджанском языке ну наверное это не древние слова это не коренной азербайджанский язык поскольку / наверное восточный народ всегда привык есть / руками //            </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE> когда не бы... #смеется# когда появился тюркский не было ни ложки ни вилки ни / чашки на...  пиала какая-то была что-то совсем другое есть какие-то вещи которые / ну / перестройка #смеется# // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ну в общем есть какие-то вещи в русском языке которые азербайджанец невольно когда он будет говорить он будет вставлять русские слова //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>потому что он / на своем языке не сможет найти это / должны / просто прекрасно знать литературный азербайджанский язык //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>чтоб умудриться выпутаться без / иностранных слов каких-либо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>у меня ассоциируется время / я вот как-то н... не люблю вот / н... наверное потому что я не чувствую еще себя старым //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>что вот как-то / ругать новое время хвалить старое время мне почему-то это / претит все когда вот другие начинают вот в наше время песни были хорошие / в наше время / там / люди были лучше  / ну //   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>к сожалению / вынужден повториться что да / в общем / во всяком случае в моем восприятии //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="carolineberzina" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@lgparfenov1960m" TIER_ID="text@lgparfenov1960m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>вы пели / я влюблен в весну твою Азербайджан вы пели по-азербайджански</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>это время все вспоминают как очень / такое светлое романтичное и наверное не только от того что все тогда были моложе и естественно солнце светило ярче а небо было синее //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>с чем у вас это время ассоциируется? / вот кроме вашей работы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>с каким настроением с каким / чувством? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="carolineberzina" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@mmmagomaev1942m" PARTICIPANT="@mmmagomaev1942m" TIER_ID="transl@mmmagomaev1942m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>in general / absolute nonsense</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>I understand Azerbaijani's reproaches about the fact that I do not know the language but I do not know it only because I haven't been perceiving it since childhood </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>I studied in an elite school / me and Polad have been studying there together //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>where Azerbaijani was not necessary / learn it if you want to and don't if you don't want to / so / learn English / learn Russian / everybody spoke Russian //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Naturally / more attention was paid to English rather than Azerbaijani / and I just didn't have time to learn that language //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I've been singing in Italian #laughs# so I became an internationalist in the end //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>that's why I can have n... no nationalism in my soul #indistinct# or any kind of mistrust to any nationalities / because everything is mixed in my blood //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>I sing in Azerbaijani I sing very well / I / understand the language if someone is talking to me // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>though I speak so horribly / that I'm embarassed to speak in my / in... in front of my nation // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>I have / friends acquaintances who speak Azerbaijani just a bit better than me / and they are not embarassed for some reason / hm to yield phrases though the way they talk is funny / to hear // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>I'm embarassed even though I understand speech I understand what people are talking about / but I immediately turn to Russian //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>by the way Azerbaijanis use lots of Russian words being unaware of that //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>because for example fork spoon exist in Azerbaijani language but probably these are not ancient words it is not fundamental  Azerbaijani language because / I guess eastern nations are used to eating using hands //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>when there wasn... #laughs# when Turkic emerged there was no spoons or forks or / cups / there was some kind of teabowl something totally different there are things that / well / restructuring #laughs# // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>in general there are some words in Russian which Azerbaijani would involuntarily use when speaking //  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>because / they can't find it in their native language / they have to / know literary Azerbaijani really well //  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>to get away without using foreign words //  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>I associate this time / I don't really like / maybe because I don't feel old yet // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>you know / scolding new times praising old times for some reason / it disgusts me when others start in our times songs were good / in our times / people were better well //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>unfortunately / I have to repeat myself that yes / in general in my perception // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="carolineberzina" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@lgparfenov1960m" PARTICIPANT="@lgparfenov1960m" TIER_ID="transl@lgparfenov1960m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>you sang i'm in love with your spring Azerbaijan in Azerbaijani</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>everybody remembers this time as a very / happy romantic and probably not only because then everybody was younger and certainly the sun shined brighter and the sky was bluer //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>what do you associate with this time? / besides your job // </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>which state of mind / which feeling? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
